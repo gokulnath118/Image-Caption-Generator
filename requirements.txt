@@ -1,0 +1,8 @@
+streamlit
+transformers== 4.41.2
+torch
+Pillow
+matplotlib
+faiss-cpu
+sentence-transformers
+tokenizers== 0.19.1
